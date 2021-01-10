@@ -11,7 +11,7 @@ and open the template in the editor.
         <script type="text/javascript" src=".\jquery-3.5.1.js"></script>
         <script type="text/javascript" src=".\js\bootstrap.js"></script>
         <meta charset="UTF-8">
-        <title> </title>
+        <title>PSRVmath</title>
     </head>
     
     <body>
